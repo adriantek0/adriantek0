@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adrián</h1>
 <h3 align="center">Backend and fullstack JavaScript and TypeScript developer</h3>
 
-<p align="center">- 🔭 I’m currently working on **[D-Assurance](https://d-assurance.tk)**</p>
+- 🔭 I’m currently working on **[D-Assurance](https://d-assurance.tk)**
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
