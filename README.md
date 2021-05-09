@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Adrián</h1>
-<h3 align="center">Backend and fullstack JavaScript and TypeScript developer</h3>
+<h3 align="center">Backend JavaScript and TypeScript developer</h3>
 
 - 🔭 I’m currently working on **[D-Assurance](https://d-assurance.tk)**
+- 🔭 I’m currently working on **[Yardbird](https://yardbird.tk)**
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
