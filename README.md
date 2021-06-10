@@ -1,32 +1,30 @@
-<h1 align="center">Hi 👋, I'm Adrian</h1>
-<h3 align="center">A passionate backend developer from Spain</h3>
+### Hi there 👋, my name is Adrián
+#### I am backend JS, TS and Python developer
+I am simply a developer who does things because he wants to do them and because I enjoy them
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adriantek0&label=Profile%20views&color=0e75b6&style=flat" alt="adriantek0" /> </p>
+Skills: JS / TS / PY
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adriantek0" alt="adriantek0" /></a> </p>
+- 🔭 I’m currently working on my projects 
+- 🌱 I’m currently learning Kotlin and Java 
+- 💬 Ask me about JavaScript, Discord.js, Discord.py, Eris 
+- 😄 Pronouns: he/her 
+- ⚡ Fun fact: I am a very interesting boy who always learns new things. oh and i'm gay bitch 
 
-<p align="left"> <a href="https://twitter.com/adriantek0" target="blank"><img src="https://img.shields.io/twitter/follow/adriantek0?logo=twitter&style=for-the-badge" alt="adriantek0" /></a> </p>
 
-- 🔭 I’m currently working on [D-Assurance](https://d-assurance.tk)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/adriantek0)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/adriantek0)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://adriandev.tk)  
 
-- 🌱 I’m currently learning **Java (JDA and Discord4J) and Kotlin (Kord)**
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
-- 📫 How to reach me **AdrianTek#3275**
+[![trophy](https://github-profile-trophy.vercel.app/?username=adriantek0)](https://github.com/ryo-ma/github-profile-trophy)
 
-- ⚡ Fun fact **I think I am a very interesting boy!**
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adriantek0)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/adriantek0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="adriantek0" height="30" width="40" /></a>
-<a href="https://discord.gg/xT7dQFvRD6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/discord.svg" alt="xT7dQFvRD6" height="30" width="40" /></a>
-</p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=adriantek0&show_icons=true&count_private=true)  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=adriantek0)  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adriantek0&show_icons=true&locale=en&layout=compact" alt="adriantek0" /></p>
+![GitHub metrics](https://metrics.lecoq.io/adriantek0)  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adriantek0&show_icons=true&locale=en" alt="adriantek0" /></p>
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=adriantek0)  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adriantek0&" alt="adriantek0" /></p>
-
+![Profile views](https://gpvc.arturio.dev/adriantek0)  
