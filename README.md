@@ -1,14 +1,11 @@
 ### Hi there 👋, my name is Adrián
 #### I am backend JS, TS and Python developer
-I am simply a developer who does things because he wants to do them and because I enjoy them
 
-Skills: JS / TS / PY
-
-- 🔭 I’m currently working on my projects 
-- 🌱 I’m currently learning Kotlin and Java 
-- 💬 Ask me about JavaScript, Discord.js, Discord.py, Eris 
-- 😄 Pronouns: he/her 
-- ⚡ Fun fact: I am a very interesting boy who always learns new things. oh and i'm gay bitch 
+<div align="left">
+  <a href="https://discord.com/users/306787329975123969">
+    <img src="https://lanyard-profile-readme.vercel.app/api/306787329975123969?animated=true" align="left" height="205">
+  </a>
+</div>
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/adriantek0)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/adriantek0)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://adriandev.tk)  
